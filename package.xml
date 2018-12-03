@@ -7,7 +7,7 @@
 for hustac_pg_v3 robot</p>
   </description>
   <author>me</author>
-  <maintainer email="454865654@qq.com" />
+  <maintainer email="784845456@qq.com" />
   <license>BSD</license>
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>roslaunch</build_depend>
